@@ -1,0 +1,25 @@
+nbproject/private/
+build/
+dist/
+*.class
+*.log
+*.jar
+# Ignora pastas padrão do NetBeans
+nbproject/private/
+build/
+dist/
+
+# Ignora arquivos de compilação
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Outros arquivos temporários
+*.tmp
+*.bak
+*.swp
+.DS_Store
