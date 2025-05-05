@@ -41,7 +41,7 @@
         status BOOLEAN DEFAULT TRUE
     );
 
-## Configurar o Projeto no NetBeans
+## 📌 Configurar o Projeto no NetBeans
 1. Abra o NetBeans.
 
 2. File → Open Project → Selecione a pasta clonada.
