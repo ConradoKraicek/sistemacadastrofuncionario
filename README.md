@@ -71,6 +71,9 @@
 -  Problema: Tabelas não criadas Solução: Execute manualmente os scripts SQL ou verifique DatabaseConnection.java.
 -  Problema: Erro ao logar Solução: Verifique se o usuário está cadastrado e a senha está correta.
 
+### Observação
+- Não foi segmentado a tela de cadastro de funcionários por perfil ex:usuario admin por não fazer parte do escopo do enunciado, de modo que, todo usuário que esteja gravado no banco quando acessar a tela de cadastro de funcionários e gravar dados visualizará todos os registros já cadastrados.
+
 ## 🗂 Estrutura do Projeto
 
 ```plaintext
